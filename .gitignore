@@ -48,3 +48,5 @@ m4/lt~obsolete.m4
 # (which is called by configure script))
 Makefile
 *.c~
+config.h
+*.Po
